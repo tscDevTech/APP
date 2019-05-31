@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<script>window.__ctx__ ={{ ctx | dump | safe }}</script>
+{% include "./templates/index.html" %}
+</html>
